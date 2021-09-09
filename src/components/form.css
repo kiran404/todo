@@ -1,0 +1,35 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(47, 163, 147);
+    padding: 10px;
+    display: block;
+    /* margin-top: 50%; */
+  }
+  
+
+  #text {
+margin-right: 15px;
+  }
+
+  .edit{
+      margin-left: 30px;
+      margin-right: 10px;
+  }
+
+ .todo_lists{
+     display: inline-block;
+ }
+
+.container{
+    margin-top: 1rem;
+    display: flex;
+}
+
+ .lists{
+     flex: 0 0 90%;
+ }
+
+ .ed{
+     flex: 1
+ }
